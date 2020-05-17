@@ -1,0 +1,13 @@
+Hello,
+
+Thank you for your reply, please find below the clarifications for each of the points:
+
+There is no business purpose involved. The core use case is entirely recreational and limited to personal use. For this account, I plan to build a Twitter bot that will be able to read data (not store) from public tweets based on some specific keywords such as "python", "programming" etc. And may also be able to like or retweet the tweets that contain those specific keywords.
+
+I plan to use my granted API keys in a way that's compliant with Twitters automation policy located here: https://help.twitter.com/en/rules-and-policies/twitter-automation 
+
+I have no intention to analyze tweets, users or their content other than such as the one mentioned above only consists in reading the data on these tweets and liking or retweeting based on specific keywords without any further processing. I hope this does not qualify as "analyzing tweets".
+
+The use case does not involve any interaction with any Tweet except liking and retweeting i.e. it doesn't involve any other actions which would change the status of a Tweet or Twitter user. No Tweet posts are generated either.
+
+No Twitter content will be generated or displayed on any website. I'll just use the command line to read the tweets. Besides, I would like to reiterate that the core use case is for personal use so that the only user of my service is myself.
